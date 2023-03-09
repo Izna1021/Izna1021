@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izna1021&label=Profile%20views&color=0e75b6&style=flat" alt="izna1021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izna1021" alt="izna1021" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://izna1021.github.io/](https://izna1021.github.io/)
 
 - 💬 Ask me about **Web Development, Android Development**
