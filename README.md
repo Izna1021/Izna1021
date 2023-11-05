@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi there 👋, I am  Izna</b> </h1>
-<!-- -->
+
 
 Welcome to my GitHub profile!
 
