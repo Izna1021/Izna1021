@@ -1,6 +1,4 @@
 <h1 align="center"><b>Hi there 👋, I am  Izna</b> </h1>
-
-
 Welcome to my GitHub profile!
 
 I am an aspiring software developer with a strong interest in problem-solving and building applications that make people's lives easier. My coding journey began with learning the basics of programming and gradually learning various technologies and tools.
